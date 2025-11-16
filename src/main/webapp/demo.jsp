@@ -12,7 +12,7 @@
 <table border="1" cellpadding="0" cellspacing="0">
 	<tr>
 		<td>
-			<label for="nombre">Nombre del producto:</label><br/>
+			<label for="nombre">Nombre del usuario:</label><br/>
 			<input type="text" id="nombre" name="nombre" placeholder="Ej: Laptop HP" required>
 		</td>
 	</tr>
