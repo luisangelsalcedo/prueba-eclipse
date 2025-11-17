@@ -9,6 +9,7 @@ pageEncoding="UTF-8"%>
 <body>
 <h1>lenguaje de programacion 1</h1>
 <h1>Daniel</h1>
+<h1>practicando</h1>
 <form>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tr>
