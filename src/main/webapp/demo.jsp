@@ -8,10 +8,12 @@
 </head>
 <body>
 <h1>lenguaje de programacion 1</h1>
+<h1> Daniel </h1>
 <form>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tr>
 		<td>
+
 			<label for="nombre">Nombre del usuario:</label><br/>
 			<input type="text" id="nombre" name="nombre" placeholder="Ej: Laptop HP" required>
 		</td>
